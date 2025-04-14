@@ -1,3 +1,6 @@
 lapreprint.pdf
 frontmatter.pdf
 template.pdf
+# pixi environments
+.pixi
+*.egg-info

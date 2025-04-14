@@ -1,0 +1,11 @@
+[workspace]
+authors = ["Mikkel Roald-Arbøl <github.ggb9a@simplelogin.co>"]
+channels = ["conda-forge"]
+name = "lapreprint-typst"
+platforms = ["osx-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+typst = ">=0.13.1,<0.14"
